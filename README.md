@@ -1,1 +1,5 @@
-# Gorie - toy riemann client in golang
+# Gorie 
+
+Toy riemann client in golang
+
+## Licence MIT
